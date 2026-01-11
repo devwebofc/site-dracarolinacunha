@@ -68,7 +68,7 @@ const Hero: React.FC = () => {
            <div className="relative w-full h-full max-w-lg">
              <div className="absolute inset-0 bg-gold-400/20 rounded-t-full blur-3xl transform translate-y-20"></div>
              <img 
-              src="public/imgs/image.png" 
+              src="./public/imgs/image.png" 
               alt="Dra. Carolina Cunha" 
               className="relative w-full h-full object-cover object-top rounded-t-full shadow-2xl border-b-0 grayscale-[20%] sepia-[10%]"
              />
